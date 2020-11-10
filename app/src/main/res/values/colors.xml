@@ -8,5 +8,15 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+
+
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    #user defined colors
+    <color name="gray">#6B6B6D</color>
+    <color name="whiteback">#D6D6D6</color>
     <color name="buop">#F79261</color>
 </resources>
